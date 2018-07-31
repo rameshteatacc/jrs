@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubWebApp", "GithubWebApp\GithubWebApp.csproj", "{72B5EBA0-86EA-45EB-AC1F-5D4702D5994B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B5EBA0-86EA-45EB-AC1F-5D4702D5994B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B5EBA0-86EA-45EB-AC1F-5D4702D5994B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B5EBA0-86EA-45EB-AC1F-5D4702D5994B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B5EBA0-86EA-45EB-AC1F-5D4702D5994B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D82480-B043-479D-8E32-08BE4825A7E1}
+	EndGlobalSection
+EndGlobal
